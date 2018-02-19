@@ -1,11 +1,11 @@
+// Módulos
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { PagesModule } from './pages/pages.module';
 
 // Rutas
 import { APP_ROUTES } from './app.routes';
 
-// Módulos
-import { PagesModule } from './pages/pages.module';
 
 // Componentes
 import { AppComponent } from './app.component';
